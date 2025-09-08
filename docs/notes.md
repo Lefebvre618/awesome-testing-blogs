@@ -12,3 +12,4 @@ Notes and usage details for awesome-testing-blogs.
 - clarify the setup steps
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
