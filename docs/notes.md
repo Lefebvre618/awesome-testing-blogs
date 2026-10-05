@@ -37,3 +37,4 @@ Notes and usage details for awesome-testing-blogs.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
